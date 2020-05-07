@@ -51,6 +51,7 @@
 		CA3E060F2464586D00CBAFEE /* CvprojetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CvprojetUITests.swift; sourceTree = "<group>"; };
 		CA3E06112464586D00CBAFEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CA3E061D24646F2800CBAFEE /* testsublime.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = testsublime.html; path = ../testsublime.html; sourceTree = "<group>"; };
+		CA3E061F2464707F00CBAFEE /* testsublime.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = testsublime.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +105,7 @@
 			children = (
 				CA3E05ED2464584900CBAFEE /* AppDelegate.swift */,
 				CA3E05EF2464584900CBAFEE /* SceneDelegate.swift */,
+				CA3E061F2464707F00CBAFEE /* testsublime.html */,
 				CA3E05F12464584900CBAFEE /* ContentView.swift */,
 				CA3E05F32464586B00CBAFEE /* Assets.xcassets */,
 				CA3E05F82464586C00CBAFEE /* LaunchScreen.storyboard */,
