@@ -15,6 +15,7 @@
 		CA3E05FA2464586C00CBAFEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA3E05F82464586C00CBAFEE /* LaunchScreen.storyboard */; };
 		CA3E06052464586D00CBAFEE /* CvprojetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA3E06042464586D00CBAFEE /* CvprojetTests.swift */; };
 		CA3E06102464586D00CBAFEE /* CvprojetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA3E060F2464586D00CBAFEE /* CvprojetUITests.swift */; };
+		CA3E061E24646F2800CBAFEE /* testsublime.html in Resources */ = {isa = PBXBuildFile; fileRef = CA3E061D24646F2800CBAFEE /* testsublime.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CA3E060B2464586D00CBAFEE /* CvprojetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CvprojetUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA3E060F2464586D00CBAFEE /* CvprojetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CvprojetUITests.swift; sourceTree = "<group>"; };
 		CA3E06112464586D00CBAFEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA3E061D24646F2800CBAFEE /* testsublime.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = testsublime.html; path = ../testsublime.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		CA3E05E12464584900CBAFEE = {
 			isa = PBXGroup;
 			children = (
+				CA3E061D24646F2800CBAFEE /* testsublime.html */,
 				CA3E05EC2464584900CBAFEE /* Cvprojet */,
 				CA3E06032464586D00CBAFEE /* CvprojetTests */,
 				CA3E060E2464586D00CBAFEE /* CvprojetUITests */,
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA3E061E24646F2800CBAFEE /* testsublime.html in Resources */,
 				CA3E05FA2464586C00CBAFEE /* LaunchScreen.storyboard in Resources */,
 				CA3E05F72464586C00CBAFEE /* Preview Assets.xcassets in Resources */,
 				CA3E05F42464586B00CBAFEE /* Assets.xcassets in Resources */,
